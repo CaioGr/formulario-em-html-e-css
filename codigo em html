@@ -1,0 +1,25 @@
+<html>
+
+<head>
+    <link href="licaoformulario.css" rel="stylesheet">
+</head>
+
+<body>
+    <form>
+        <h1>PREENCHA O FORMULARIO SEGUINTE E CLIQUE EM ENVIAR</h1>
+        <h3 class="nome">NOME:</h3>
+        <input type="text" placeholder="coloque seu nome aqui" class="nome">
+        <h3 class="nome">SOBRENOME:</h3>
+        <input type="text" placeholder="coloque seu sobrenome " class="nome">
+        <h3 class="nome">DATA DE NASCIMENTO:</h3>
+        <input type="date" placeholder="coloque sua idade aqui" class="nome">
+        <h3 class="nome">EMAIL:</h3>
+        <input type="email" placeholder="coloque seu email aqui" class="nome">
+        <h3 class="nome">SENHA:</h3>
+        <input type="password" placeholder="coloque sua senha aqui" class="nome">
+        <h1>OBRIGADO POR PREENCHER CASO VOCÊ SEJA ACEITO ENTRAREMOS EM CONTATO POR ESSE EMAIL</h1>
+        <button class="botao">ENVIAR</button>
+    </form>
+</body>
+
+</html>
