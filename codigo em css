@@ -1,0 +1,35 @@
+body{
+    background-color: #ffc8c4;
+}
+
+h1{
+    background-color: #ffc1bd;
+    color: #786b6b;
+    margin-left: 50px;
+}
+
+.nome{
+    font-size: 20px;
+    margin-left: 500px
+}
+
+.botao{
+    font-size: 25px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    width: 150px;
+    height: 50px;
+    background-color: #786b6b;
+}
+
+.botao:hover{
+    cursor: pointer;
+    color: #9e9393;
+}
+
+.botao:active{
+    cursor: pointer;
+    background-color: #786b6b;
+    color: #fff; 
+}
